@@ -1,0 +1,72 @@
+.centralize{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.left-alignment{
+    text-align: left;
+}
+
+.right-alignment{
+    display: flex;
+    align-items: right;
+}
+
+.div-button{
+    justify-content: flex-end;
+}
+
+.grid-header{
+    margin:1rem;
+}
+
+.link-header{
+    text-decoration: none !important;
+    color:#000
+}
+
+.link{
+    font-weight: bold;
+    text-decoration: none !important;
+    color: #000;
+    padding-bottom: 6px;
+}
+
+.link-0{
+    border-bottom: 4px solid #5a43f1;
+}
+.link-0:hover{
+    border-bottom: 4px solid #5a43f1;
+}
+
+
+.link-1{
+    border-bottom: 4px solid #59abf7;
+}
+.link-1:hover{
+    border-bottom: 4px solid #59abf7;
+}
+
+
+.link-2{
+    border-bottom: 4px solid #5eddac;
+}
+.link-2:hover{
+    border-bottom: 4px solid #5eddac;
+}
+
+.link-3{
+    border-bottom: 4px solid #f6cd5d;
+}
+.link-3:hover{
+    border-bottom: 4px solid #f6cd5d;
+}
+
+.link-4{
+    border-bottom: 4px solid #a208ba;
+}
+.link-4:hover{
+    border-bottom: 4px solid #a208ba;
+}
+
